@@ -1,3 +1,14 @@
+---
+layout:       post
+title:        "我的markdown学习笔记"
+author:       "Cliot-w"
+header-style: text
+catalog:      true
+tags:
+    - Web
+    - JavaScript
+---
+
 # <p style="text-align:center">MarkDown语法教程</p>
 # 这是一级标题，#后空格，紧接输入文字，有几个#就是几级标题 
   
